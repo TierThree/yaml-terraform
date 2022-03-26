@@ -1,0 +1,6 @@
+# Ignore all .yml and .yaml files in this directory
+*.yaml
+*.yml
+
+# Ignore all .pyc files
+*.pyc
